@@ -1,4 +1,4 @@
-#100 points first game
+#Pig Game
 GAME RULES:
 
 - The game has 2 players, playing in rounds
