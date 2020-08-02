@@ -45,4 +45,3 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
 });
 
 
-//document.querySelector('#current-' + activePlayer).innerHTML = '<em>' + dice + '</em>';
